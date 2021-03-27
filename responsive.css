@@ -1,0 +1,541 @@
+@media (max-width:1050px) {
+    .header-logo {
+        width: 27%;
+    }
+    .header-menu {
+        width: 55%;
+        text-align: center;
+    }
+    .primary-menu ul li a {
+        padding: 0 14px;
+        font-size: 17px;
+    }
+    .logo img {
+        height: 54px;
+        width: 48px;
+        margin-right: 7px;
+    }
+    .logo span {
+        font-size: 24px;
+        margin-top: 12px;
+    }
+    .header-booton {
+        width: 18%;
+    }
+    .header-btn {
+        padding: 4px 20px;
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .video-content-right h3 {
+        font-size: 32px;
+        margin-bottom: 21px;
+    }
+    .video-content-right p {
+        font-size: 17px;
+        line-height: 29px;
+    }
+    .service-section {
+        padding: 40px 0;
+    }
+    .section-title h1 {
+        font-size: 42px;
+        margin-bottom: 22px;
+    }
+    .s-icon {
+        font-size: 41px;
+        margin-top: 9px;
+    }
+    .s-content h3 {
+        margin-bottom: 16px;
+    }
+    .s-content p {
+        font-size: 17px;
+        line-height: 1.5em;
+    }
+    .p-content ul li span {
+        font-size: 25px;
+        width: 40px;
+    }
+    .p-heading h4 {
+        font-size: 22px;
+    }
+    .p-heading h1 {
+        margin: 10px 0;
+        font-size: 40px;
+    }
+    .p-heading h5 {
+        font-size: 19px;
+        margin-bottom: 15px;
+    }
+    .p-heading p {
+        font-size: 17px;
+    }
+    .p-content ul li span {
+        font-size: 20px;
+        width: 32px;
+    }
+    .p-content ul li {
+        margin: 18px 0;
+        font-size: 17px;
+    }
+    .default-btn {
+        padding: 10px 19px;
+        font-size: 17px;
+        border-radius: 5px;
+    }
+    .section-title h2 {
+        font-size: 38px;
+        margin-top: 0px;
+    }
+    .member-bio h4 {
+        font-size: 20px;
+        margin-bottom: 7px;
+    }
+    .member-bio p {
+        font-size: 15px;
+    }
+    .newslatter-section {
+        padding: 33px 0;
+    }
+    .content-map {
+        width: 100%;
+    }
+    .content-map iframe {
+        height: 375px;
+    }
+    .content-form {
+        width: 100%;
+        margin-top: 90px;
+    }
+    .content-form h4 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .content-form p {
+        font-size: 17px;
+    }
+    .footer {
+        margin-top: 70px;
+    }
+    .footer p {
+        font-size: 16px;
+    }
+}
+
+@media (max-width:920px) {
+    .logo img {
+        height: 46px;
+        width: 44px;
+    }
+    .logo span {
+        font-size: 20px;
+        margin-top: 13px;
+    }
+    .primary-menu ul li a {
+        padding: 0px 10px;
+        font-size: 15px;
+    }
+    .primary-menu ul li ul {
+        width: 170px;
+        text-align: left;
+    }
+    .banner-content h2 {
+        font-size: 51px;
+        margin: 16px 0;
+    }
+    .video-content-right h3 {
+        font-size: 27px;
+        margin-bottom: 18px;
+    }
+    .video-content-right p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .section-title h1 {
+        font-size: 33px;
+        margin-bottom: 10px;
+        font-weight: 500;
+    }
+    .section-title p {
+        font-size: 20px;
+    }
+    .service-box {
+        width: 48%;
+    }
+    .service-box:nth-child(3n+3){
+        margin-right: 20px;
+    }
+    .service-box:nth-child(2n+2){
+        margin-right: 0;
+    }
+    .section-title h2 {
+        font-size: 34px;
+        margin-bottom: 12px;
+    }
+    .section-title p {
+        font-size: 18px;
+    }
+
+    .p-heading h1 {
+        margin: 8px 0;
+        font-size: 23px;
+    }
+    .p-heading h4 {
+        font-size: 20px;
+    }
+    .p-heading p {
+        font-size: 13px;
+    }
+    .p-heading h5 {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+    .p-content {
+        padding: 20px;
+    }
+    .p-content ul li span {
+        font-size: 16px;
+        width: 22px;
+    }
+    .p-content ul li {
+        margin: 15px 0;
+        font-size: 14px;
+    }
+    .default-btn {
+        padding: 10px 20px;
+        font-size: 14px;
+        border-radius: 5px;
+    }
+    .team-section {
+        padding: 70px 0;
+    }
+    .section-title h2 {
+        font-size: 30px;
+        margin-bottom: -6px;
+    }
+    .member {
+        width: 48%;
+        margin-bottom: 20px;
+    }
+    .section-title p {
+        font-size: 16px;
+    }
+    .section-title h2 {
+        font-size: 28px;
+        margin-bottom: 6px;
+    }
+    .default-input {
+        width: 350px;
+        padding: 12px 12px;
+        font-size: 14px;
+    }
+    .submit-btn {
+        font-size: 16px;
+        padding: 10px 71px;
+    }
+    .b-heading h2 {
+        font-size: 40px;
+    }
+    .b-content {
+        font-weight: 300;
+        font-size: 17px;
+        line-height: 1.5em;
+    }
+    .blog-post-content h3 {
+        font-size: 23px;
+        margin-bottom: 10px;
+    }
+    .blog-post-content p {
+        font-size: 15px;
+        line-height: 1.5em;
+        padding: 5px 0;
+    }
+    .t-content {
+        padding: 37px 20px;
+    }
+    .t-content p {
+        font-size: 16px;
+    }
+    .footer-contract-form textarea {
+        height: 150px;
+    }
+    .footer p {
+        font-size: 15px;
+    }
+}
+
+@media (max-width:790px) {
+    .header-logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 16px;
+    }
+
+    .logo img {
+        float: inherit;
+        position: relative;
+        margin-bottom: -12px;
+    }
+    .primary-menu ul {
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .header-booton {
+        width: 150px;
+        position: absolute;
+        right: 24px;
+        top: 50px;
+    }
+    .primary-menu span {
+        font-size: 28px;
+        text-align: left;
+        display: inherit;
+        color: #6278df;
+        cursor: pointer;
+    }
+    .header-section {
+        position: relative;
+    }
+    .banner-section {
+        margin-top: 0;
+    }
+    .banner-section {
+        padding: 200px 0;
+    }
+    .pricing-table-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width:768px) {
+    .banner-section {
+        padding: 165px 0;
+    }
+    .banner-content h3 {
+        font-size: 17px;
+        font-weight: 400;
+    }
+    .banner-content h2 {
+        font-size: 38px;
+        margin: 8px 0;
+    }
+    .default-btn {
+        padding: 5px 0px;
+        font-size: 17px;
+        display: block;
+        margin-bottom: 14px !important;
+        width: 50%;
+        margin: auto;
+    }
+    .video-left {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+    }
+    .video-content-right {
+        width: 100%;
+        margin-top: 36px;
+    }
+    .service-box {
+        width: 100%;
+    }
+    .member {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .default-input {
+        width: 100%;
+        margin-bottom: 16px;
+    }
+    .b-heading {
+        width: 100%;
+    }
+    .b-heading h2 {
+        font-size: 37px;
+        font-weight: 300;
+        margin-bottom: 10px;
+    }
+    .b-content {
+        width: 100%;
+    }
+    .blog-post-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .blog-section {
+        padding: 0;
+    }
+    .t-item {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .testimonial {
+        padding: 70px 0;
+    }
+    .content-map iframe {
+        height: 280px;
+    }
+    .footer p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width:530px) {
+    .banner-section {
+        padding: 140px 0;
+    }
+    .banner-content h2 {
+        font-size: 33px;
+        margin: 5px 0;
+    }
+    .default-btn {
+        font-size: 16px;
+        margin-bottom: 11px !important;
+    }
+    .banner-bottom {
+        padding: 60px 0;
+    }
+    .video-content-right h3 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+    .video-content-right p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .section-title h1 {
+        font-size: 24px;
+        margin-bottom: 9px;
+        font-weight: 400;
+    }
+    .service-section {
+        padding: 16px 0;
+    }
+    .service-box {
+        padding: 7px;
+    }
+    .section-title h2 {
+        font-size: 23px;
+    }
+    .pricing-table-section {
+        padding: 24px;
+    }
+    .team-section {
+        padding: 30px 0;
+    }
+    .member-bio {
+        margin-bottom: 20px;
+        padding: 0;
+    }
+    .member-bio h4 {
+        font-size: 19px;
+        margin-bottom: 2px;
+    }
+    .member-bio p {
+        font-size: 14px;
+    }
+    .newslatter-section {
+        padding: 20px 0;
+    }
+    .section-title p {
+        font-size: 14px;
+    }
+    .section-title h2 {
+        font-size: 21px;
+        margin-top: 4px;
+    }
+    .default-input {
+        padding: 11px 11px;
+        font-size: 14px;
+    }
+    .submit-btn {
+        font-size: 14px;
+        padding: 10px 60px;
+    }
+    .b-heading h2 {
+        font-size: 31px;
+        margin-bottom: 6px;
+        margin-top: -8px;
+    }
+    .b-content {
+        font-size: 16px;
+    }
+    .testimonial {
+        padding: 45px 0;
+    }
+    .blog-post-item img {
+        width: 220px;
+        margin-right: 20px;
+    }
+    .blog-post-content h3 {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+    .blog-post-content p {
+        font-size: 13px;
+        line-height: 1.3em;
+        padding: 2px 0;
+    }
+    .section-title h2 {
+        font-size: 18px;
+    }
+    .t-content {
+        padding: 10px;
+    }
+    .t-content p {
+        font-size: 14px;
+    }
+    .t-user-bio h4 {
+        font-size: 18px;
+        margin-bottom: 2px;
+    }
+    .t-user-bio span {
+        font-size: 14px;
+    }
+    .t-user-img img {
+        width: 59px;
+        margin-right: 16px;
+    }
+    .t-content {
+        margin-bottom: 19px;
+        margin-top: 15px;
+    }
+    .contract {
+        padding: 10px;
+    }
+    .content-form {
+        margin-top: 55px;
+    }
+    .content-form h4 {
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+    .content-form p {
+        font-size: 14px;
+        line-height: 1.6em;
+    }
+    .footer-contract-form .default-input {
+        margin-bottom: 10px;
+    }
+    .default-input {
+        padding: 7px;
+        font-size: 13px;
+    }
+    .footer-contract-form textarea {
+        height: 100px;
+    }
+    .submit-btn {
+        font-size: 13px;
+        padding: 7px 30px;
+    }
+    .footer {
+        margin-top: 32px;
+    }
+    .footer p {
+        font-size: 11px;
+    }
+}
